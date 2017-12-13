@@ -1,0 +1,12 @@
+c:\users\richard\documents\visual studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\bin\Debug\positivitet V 2.0.exe.config
+c:\users\richard\documents\visual studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\bin\Debug\positivitet V 2.0.exe
+c:\users\richard\documents\visual studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\bin\Debug\positivitet V 2.0.pdb
+c:\users\richard\documents\visual studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\obj\Debug\positivitet V 2.0.csprojResolveAssemblyReference.cache
+c:\users\richard\documents\visual studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\obj\Debug\positivitet V 2.0.exe
+c:\users\richard\documents\visual studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\obj\Debug\positivitet V 2.0.pdb
+C:\Users\Richard\Documents\Visual Studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\bin\Debug\sv-SE\positivitet V 2.0.resources.dll
+C:\Users\Richard\Documents\Visual Studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\obj\Debug\positivitet_V_2._0.Properties.Resources.resources
+C:\Users\Richard\Documents\Visual Studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\obj\Debug\positivitet_V_2._0.Resources.Resources.resources
+C:\Users\Richard\Documents\Visual Studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\obj\Debug\positivitet_V_2._0.Resources.Resources.sv-SE.resources
+C:\Users\Richard\Documents\Visual Studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\obj\Debug\positivitet V 2.0.csproj.GenerateResource.Cache
+C:\Users\Richard\Documents\Visual Studio 2017\Projects\positivitet V 2.0\positivitet V 2.0\obj\Debug\sv-SE\positivitet V 2.0.resources.dll
