@@ -168,7 +168,42 @@ namespace positivitet_V_2._0
         //SETTINGS//
         static void SETTINGS()
         {
+            Console.Clear();
+            Console.WriteLine("1)color");
+            Console.WriteLine("2)height");
+            Console.WriteLine("3)width");
+            Console.WriteLine("4)format");
+            Console.WriteLine("5)back");
+            var input = Console.ReadLine().Trim();
+            SSETTINGS(input);
 
+        }
+
+        static void SSETTINGS(string input)
+        {
+            switch(input)
+            {
+                case "1":
+
+                    break;
+
+                case "2":
+
+                    break;
+
+                case "3":
+
+                    break;
+
+                case "4":
+
+                    break;
+
+                case "5":
+
+                    break;
+
+            }
         }
 
         //
